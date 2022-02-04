@@ -1,5 +1,5 @@
 # azdc-training
-Clemens and Andreas MS Training
+Clemens Waetjen and Andreas Mock MS Training
  azdc-training.github.io
 
 Landing page for azdc-training organization - have fun! 🚀
